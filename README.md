@@ -1,6 +1,11 @@
-# Next.js Crash Course Project
+# Next.js Dev News
 
-Project from my Next.js crash course on YouTube
+> Simple Dev news blog built with Next.js (not markdown based yet).
+
+<h2 align="center">
+  <img src="./screenshot.png" alt="next-dev-news" width="600px" />
+  <br>
+</h2>
 
 ### Run the development server:
 
